@@ -102,9 +102,9 @@ A API estará disponível em `http://localhost:4000`.
 
 | Método | Rota         | Descrição                        |
 |--------|--------------|----------------------------------|
-| POST   | `/collections/:collectionId/cards`         | Cria uma nova coleção            |
-| PUT    | `/collections/:collectionId/cards/:cardId` | Atualiza uma coleção existente   |
-| DELETE | `/collections/:collectionId/cards/:cardId` | Deleta uma coleção               |
+| POST   | `/collections/:collectionId/cards`         | Cria uma nova carta            |
+| PUT    | `/collections/:collectionId/cards/:cardId` | Atualiza uma carta existente   |
+| DELETE | `/collections/:collectionId/cards/:cardId` | Deleta uma carta               |
 
 ### 🧪 Exemplo - POST `/collections`
 
