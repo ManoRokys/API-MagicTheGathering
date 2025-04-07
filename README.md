@@ -184,3 +184,10 @@ Verifique os seguintes pontos:
 
 ---
 
+## 👥 Integrantes do Grupo
+
+- **Lucas Gomes Fagundes**  
+- **Afonso Luiz**  
+- **José Vitor**  
+
+
