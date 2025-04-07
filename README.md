@@ -1,6 +1,3 @@
-# API-MagicTheGathering
-
-
 # 📦 API-MagicTheGathering
 
 ## ✨ Visão Geral
@@ -163,6 +160,9 @@ A API estará disponível em `http://localhost:4000`.
 
 Você pode testar todos os endpoints utilizando o **Insomnia**.  
 Basta criar uma coleção com as rotas ou importar um JSON de workspace.
+
+![image](https://github.com/user-attachments/assets/c84beacf-ed08-40ef-b640-e29a6c1bb8c8)
+
 
 ![Captura de tela 2025-04-07 104552](https://github.com/user-attachments/assets/83cba133-7d1f-4dfe-af0e-38d00eabf371)
 
