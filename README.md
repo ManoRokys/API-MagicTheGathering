@@ -110,12 +110,51 @@ A API estará disponível em `http://localhost:4000`.
 
 ```json
 {
-  "name": "Black Lotus",
-  "manaCost": "{0}",
-  "type": "Artifact",
-  "rarity": "Rare",
-  "set": "Alpha"
-}
+    "name": "Alpha",
+    "releaseYear": 1993,
+    "cards": [
+      {
+        "name": "Black Lotus",
+        "manaCost": "{0}",
+        "type": "Artifact",
+        "power": "-",
+        "toughness": "-",
+        "abilities": ["Add three mana of any one color"]
+      },
+      {
+        "name": "Shivan Dragon",
+        "manaCost": "{4}{R}{R}",
+        "type": "Creature — Dragon",
+        "power": "5",
+        "toughness": "5",
+        "abilities": ["Flying", "Firebreathing"]
+      },
+      {
+        "name": "Serra Angel",
+        "manaCost": "{3}{W}{W}",
+        "type": "Creature — Angel",
+        "power": "4",
+        "toughness": "4",
+        "abilities": ["Flying", "Vigilance"]
+      },
+      {
+        "name": "Ancestral Recall",
+        "manaCost": "{U}",
+        "type": "Instant",
+        "power": "-",
+        "toughness": "-",
+        "abilities": ["Target player draws three cards"]
+      },
+      {
+        "name": "Dark Ritual",
+        "manaCost": "{B}",
+        "type": "Instant",
+        "power": "-",
+        "toughness": "-",
+        "abilities": ["Add {B}{B}{B}"]
+      }
+    ]
+  }
 ```
 
 ---
