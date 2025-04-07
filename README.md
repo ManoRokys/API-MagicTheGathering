@@ -131,6 +131,7 @@ Verifique os seguintes pontos:
 - Seu IP foi liberado em **Network Access** no painel do Atlas;
 - O banco está ativo com a collection `api-magicthegathering`.
 
+![image](https://github.com/user-attachments/assets/76a27518-23c6-433b-9bd6-911d29bed14e)
 
 
 ---
