@@ -164,6 +164,7 @@ A API estará disponível em `http://localhost:4000`.
 Você pode testar todos os endpoints utilizando o **Insomnia**.  
 Basta criar uma coleção com as rotas ou importar um JSON de workspace.
 
+![Captura de tela 2025-04-07 104552](https://github.com/user-attachments/assets/83cba133-7d1f-4dfe-af0e-38d00eabf371)
 
 
 ---
@@ -177,6 +178,8 @@ Verifique os seguintes pontos:
 - O banco está ativo com a collection `api-magicthegathering`.
 
 ![image](https://github.com/user-attachments/assets/76a27518-23c6-433b-9bd6-911d29bed14e)
+
+![Captura de tela 2025-04-07 104740](https://github.com/user-attachments/assets/bcf529cd-a268-431b-b079-ba1455f7dd6e)
 
 
 ---
